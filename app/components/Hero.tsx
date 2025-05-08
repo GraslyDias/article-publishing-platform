@@ -136,9 +136,9 @@ export default function Hero() {
             mx={'auto'}
             px={4}
           >
-            Join our platform to publish and share your articles with a global audience. 
+            Join our platform to publish and share your memes with a global audience. 
             Express your ideas, showcase your expertise, and connect with readers worldwide.
-            Your stories deserve to be heard.
+            Your memes deserve to be heard.
           </Text>
 
           {/* CTA Buttons */}
@@ -183,7 +183,7 @@ export default function Hero() {
               }}
               transition="all 0.3s ease"
             >
-              View Articles
+              View Memes
             </Button>
           </Stack>
 
