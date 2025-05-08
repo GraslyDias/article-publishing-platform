@@ -147,7 +147,7 @@ export default function FeaturedPosts() {
             <Flex justify="space-between" align="center" mb={8}>
               <HStack>
                 <Icon as={FaRegClock} color="blue.500" boxSize={5} />
-                <Heading size="lg">Recent Articles</Heading>
+                <Heading size="lg">Recent Memes</Heading>
               </HStack>
               <Button
                 as={NextLink}
@@ -190,10 +190,10 @@ export default function FeaturedPosts() {
             <Flex justify="space-between" align="center" mb={8}>
               <HStack>
                 <Icon as={FaFire} color="red.500" boxSize={5} />
-                <Heading size="lg">Trending Articles</Heading>
+                <Heading size="lg">Trending Memes</Heading>
               </HStack>
               <Text color="gray.500" fontSize="sm">
-                Most popular stories
+                Most popular memes
               </Text>
             </Flex>
             
@@ -230,9 +230,9 @@ export default function FeaturedPosts() {
             boxShadow="xl"
           >
             <VStack spacing={4}>
-              <Heading size="lg">Share Your Story</Heading>
+              <Heading size="lg">Share Your Memes</Heading>
               <Text fontSize="md" maxW="xl">
-                Your articles can inspire and enlighten readers worldwide. By publishing your work, you contribute to the global exchange of knowledge and ideas.
+                Your meme might be someone's aha moment.
               </Text>
               <Button 
                 as={NextLink}
