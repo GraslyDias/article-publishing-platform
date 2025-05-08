@@ -136,9 +136,7 @@ export default function Hero() {
             mx={'auto'}
             px={4}
           >
-            Join our platform to publish and share your memes with a global audience. 
-            Express your ideas, showcase your expertise, and connect with readers worldwide.
-            Your memes deserve to be heard.
+            Join our memeverse and show the world that your sense of humor isn’t just for group chats. Whether it's sarcasm, irony, or straight-up facts disguised as laughs, your memes deserve a global spotlight. Express your wildest ideas, drop some truth bombs, and connect with thousands of people who speak fluent meme.
           </Text>
 
           {/* CTA Buttons */}
