@@ -167,7 +167,7 @@ export default function Navbar() {
               letterSpacing="tight"
               cursor="pointer"
             >
-              Article Publishing Platform
+              Meme Publishing Platform
             </Text>
           </NextLink>
 
@@ -205,7 +205,7 @@ export default function Navbar() {
                 letterSpacing="tight"
                 cursor="pointer"
               >
-                Article Publishing Platform
+                Meme Publishing Platform
               </Text>
             </NextLink>
           </DrawerHeader>
